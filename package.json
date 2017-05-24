@@ -1,0 +1,31 @@
+{
+  "name": "verify-data",
+  "version": "0.1.0",
+  "description": "verify data, verify arguments, verify values",
+  "main": "src/verify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/verify-data.git"
+  },
+  "keywords": [
+    "verify data",
+    "verify arguments",
+    "verify values"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/verify-data/issues"
+  },
+  "homepage": "https://github.com/gavinning/verify-data#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-uglify": "^2.1.2",
+    "gulp-rename": "^1.2.2"
+  }
+}
